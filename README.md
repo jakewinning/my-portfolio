@@ -1,2 +1,3 @@
-# my-portfolio
-This is a test repo for a portfolio
+# Jakes test portfolio demo
+
+This is a portfolio demo, it uses AWS and ReactJS
